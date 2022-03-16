@@ -8,7 +8,6 @@
   <link href="new.css" rel="stylesheet" type="text/css" />
   <script src="https://kit.fontawesome.com/8df7d40c3b.js" crossorigin="anonymous"></script>
 </head>
-3021e3f6682f749277a58172dd49bf9fa33bbed4.
 <body>
   <nav class="bar">
        <a class="active"><i class="fa fa-fw fa-home"></i> Home </a>
