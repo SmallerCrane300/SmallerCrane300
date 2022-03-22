@@ -6,7 +6,7 @@
 <!--<![endif]-->
 <head data-machine-id="WEB1485">
     <!-- MachineID: WEB1485 -->
-    <title> ⭐LUXSCES! Creatures of Sonaria - Roblox</title>
+    ⭐LUXSCES! Creatures of Sonaria - Roblox
     <meta http-equiv="X-UA-Compatible" content="IE=edge,requiresActiveX=true" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
